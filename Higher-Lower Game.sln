@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Higher-Lower Game", "Higher-Lower Game\Higher-Lower Game.csproj", "{DADA58A1-F130-40FB-9D57-CAB76D5F9972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADA58A1-F130-40FB-9D57-CAB76D5F9972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADA58A1-F130-40FB-9D57-CAB76D5F9972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADA58A1-F130-40FB-9D57-CAB76D5F9972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADA58A1-F130-40FB-9D57-CAB76D5F9972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
